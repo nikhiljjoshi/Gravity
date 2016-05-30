@@ -484,11 +484,14 @@ pre {
 }
 .contact-list,
 .social-media-list {
-  float: right;
-  display: inline-block;
   list-style: none;
   margin-left: -20;
 }
+
+#soal-media-list li {
+ display: inline;
+}
+
 .small-site-title {
   font-family: "PT Sans";
 }
