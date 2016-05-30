@@ -485,12 +485,11 @@ pre {
 .contact-list,
 .social-media-list {
   list-style: none;
-  margin-left: -20;
+  margin-left: 0;
+  list-style-type: none;
+  display: inline;
 }
 
-#social-media-list li {
- display: inline-block;
-}
 
 .small-site-title {
   font-family: "PT Sans";
