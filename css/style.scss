@@ -486,7 +486,9 @@ pre {
 .social-media-list {
   list-style: none;
   margin-left: 0;
-  list-style-type: none;
+}
+
+.social-media-list li {
   display: inline;
 }
 
