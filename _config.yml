@@ -11,9 +11,12 @@ email: hemangsk@gmail.com
 description: A Deep Learning Meanderer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: nikhil_j_joshi
-github_username:  nikhiljjoshi
-linkedin_username: nikhiljjoshi
+twitter_username:	     nikhil_j_joshi
+github_username:	     nikhiljjoshi
+linkedin_username:	     nikhiljjoshi
+facebook_username:	     nikhiljajoshi
+google_plus_username:	     +NikhilJJoshi
+stackoverflow_username:	     users/899216/nikhil-j-joshi
 
 # Build settings
 markdown: kramdown
