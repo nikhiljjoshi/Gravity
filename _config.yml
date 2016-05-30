@@ -7,16 +7,16 @@
 
 # Site settings
 title: Nikhil J Joshi
-email: hemangsk@gmail.com
+email: n.j.joshi@gmail.com
 description: A Deep Learning Meanderer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username:	     nikhil_j_joshi
-github_username:	     nikhiljjoshi
-linkedin_username:	     nikhil-j-joshi-54697318
-facebook_username:	     nikhiljajoshi
-google_plus_username:	     +NikhilJJoshi
-stackoverflow_username:	     users/899216/nikhil-j-joshi
+twitter_username: nikhil_j_joshi
+github_username: nikhiljjoshi
+linkedin_username: nikhil-j-joshi-54697318
+facebook_username: nikhiljajoshi
+google_plus_username: +NikhilJJoshi
+stackoverflow_username: users/899216/nikhil-j-joshi
 
 # Build settings
 markdown: kramdown
