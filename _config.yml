@@ -12,7 +12,7 @@ description: A Deep Learning Meanderer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: nikhil_j_joshi
-#github_username: nikhiljjoshi
+github_username: nikhiljjoshi
 linkedin_username: nikhil-j-joshi-54697318
 #facebook_username: nikhiljajoshi
 #google_plus_username: +NikhilJJoshi
