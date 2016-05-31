@@ -18,37 +18,37 @@
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
-            {% include icon-github.html %}
+            {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
 
           {% if site.twitter_username %}
           <li>
-            {% include icon-twitter.html %}
+            {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
 
 	  {% if site.linkedin_username %}
           <li>
-            {% include icon-linkedin.html %}
+            {% include icon-linkedin.html username=site.linkedin_username %}
           </li>
           {% endif %}
 
-	  {% if site.google_plus_username %}
+	  {% if site.googleplus_username %}
           <li>
-            {% include icon-google-plus.html %}
+            {% include icon-googleplus.html username=site.googleplus_username %}
           </li>
           {% endif %}
 
 	  {% if site.facebook_username %}
           <li>
-            {% include icon-facebook.html %}
+            {% include icon-facebook.html username=site.facebook_username %}
           </li>
           {% endif %}
 
 	  {% if site.stackoverflow_username %}
           <li>
-            {% include icon-stackoverflow.html %}
+            {% include icon-stackoverflow.html username=site.stackoverflow_username %}
           </li>
           {% endif %}
 
