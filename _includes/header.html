@@ -7,12 +7,16 @@
 </div>
 <div class="wrapper">
   <div class="trigger site-navigation">
-    <a class="page-link" href="/index.html">HOME</a><span class="exclamationMark">/</span>
+    <a class="page-link" href="/index.html">HOME</a><span class="exclamationMark">|</span>
 
     {% for sitePage in site.pages %}
     {% if sitePage.title %}
 
-    <a class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a><span class="exclamationMark">/</span>
+    {% if forloop.rindex == 2 %}
+    <a class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a>
+    {% else %}
+    <a class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a><span class="exclamationMark">|</span>
+    {% endif %}
     {% endif %}
     {% endfor %}
   </div>

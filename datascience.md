@@ -1,7 +1,7 @@
---
+---
 layout: archive
-title: Data Science
+title: Datascience
 permalink: /datascience/
+tagline: "All it takes to be a datascientist is ..."
 category: "datascience"
-tagline: "All it takes is signaling noisy science."
---
+---
