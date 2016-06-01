@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Design
-permalink: /design/
-category: "design"
-tagline: "it's all about perception."
+title: Machine Learning
+permalink: /machine_learning/
+category: "machine_learning"
+tagline: "It's all about learning."
 ---
